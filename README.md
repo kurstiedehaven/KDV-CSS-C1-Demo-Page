@@ -11,7 +11,8 @@ Refer to original LICENSE in repo
 
 ## Photo
 
-![127 0 0 1_5501_Develop_index html](https://github.com/kurstiedehaven/KDV-CSS-C1-Demo-Page/assets/134163209/a36bcbe1-e271-4e02-adb2-dc38027c2c77)
+![index](https://github.com/kurstiedehaven/KDV-CSS-C1-Demo-Page/assets/134163209/3f5fc92f-17d8-4077-a76a-e0d835f95767)
+
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
